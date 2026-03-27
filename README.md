@@ -1,2 +1,2 @@
 # Fiancial metrics Loader 
-Colab project for financial data procesing    
+Colab project for financial data processing    
